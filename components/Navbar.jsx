@@ -4,7 +4,7 @@ import { GrResume } from "react-icons/gr"
 const Navbar = () => {
     return (
         <header className='navbar'>
-            <h1>Prudhvi</h1>
+            <h1>Sandeep</h1>
             <nav className='links'>
                 <ul>
                     <li><a href="https://github.com/1sandeep420"><AiFillGithub color='white' /></a></li>
